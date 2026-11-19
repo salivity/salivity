@@ -2,6 +2,7 @@
 
 ## Games
 
+- https://vectail.vercel.app - A Geometry Dash Clone
 - https://maggots.vercel.app - A Commodore Amiga Worms 1995 clone
 - https://vectorframe.vercel.app - a vectorized Tower Defense game
 - https://pipeflux.vercel.app - A Commodore Amiga Pipe Mania Clone
@@ -27,7 +28,7 @@
 - https://slidefactor.vercel.app - A tool to create an animated slideshow from still images with background audio and transitions
 - https://neural-style-transfer-studio.vercel.app - An AI Powered image style transfer tool
 - https://webmconverter.app - A complete WebM conversion tool with filtration support
-- https://textreader.app - A AI Powers Text to Speech tool with multiple voices 100,000 character limit.
+- https://textreader.app - An AI Powered Text to Speech tool with multiple voices 100,000 character limit.
 - https://imagedownloader.website - An online service to extract all the images from a single web page.
 - https://avifconverter.app - An online tool to convert your images to the AVIF image format with filter support.
 - https://pngconverter.app - An online tool to convert your images and videos to the PNG image format with filter support.
