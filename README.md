@@ -1,7 +1,7 @@
 # Salivity
 
 ## Games
-
+- https://vecwar.vercel.app - A Geometry Wars Clone
 - https://vectail.vercel.app - A Geometry Dash Clone
 - https://maggots.vercel.app - A Commodore Amiga Worms 1995 clone
 - https://vectorframe.vercel.app - a vectorized Tower Defense game
