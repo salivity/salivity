@@ -1,6 +1,7 @@
 # Salivity
 
 ## Games
+- https://crash-and-smash.vercel.app - A Destruction Derby clone.
 - https://vecwar.vercel.app - A Geometry Wars Clone
 - https://vectail.vercel.app - A Geometry Dash Clone
 - https://maggots.vercel.app - A Commodore Amiga Worms 1995 clone
