@@ -26,6 +26,7 @@
 
 ## Applications
 
+- https://typemaker.vercel.app - A tool to generate 3d and static and animated typography
 - https://slidefactor.vercel.app - A tool to create an animated slideshow from still images with background audio and transitions
 - https://neural-style-transfer-studio.vercel.app - An AI Powered image style transfer tool
 - https://webmconverter.app - A complete WebM conversion tool with filtration support
